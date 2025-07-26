@@ -98,3 +98,26 @@ body {
     color: rgb(255, 244, 229);
     font-size: 1em;
 }
+/* Blog Styles */
+#blog {
+    position: absolute;
+    top: 30vh;
+    width: 50%;
+    height: auto;
+    left: 0px;
+    padding: 20px;
+    background-color: rgb(27, 109, 127);
+    border: solid 5px rgb(21, 76, 86);
+    color: rgb(255, 244, 229);
+}
+
+
+
+
+
+#footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+
+}
